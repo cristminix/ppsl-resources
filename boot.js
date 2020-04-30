@@ -1,0 +1,1 @@
+console.log('Malink Booting Web Os Version 1.0')
